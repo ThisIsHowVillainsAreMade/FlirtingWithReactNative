@@ -4,7 +4,7 @@ import { Button, StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.hello}>Bienvenue sur IPhone !</Text>
+      <Text style={styles.hello}>Jouons avec ReactNative !</Text>
       <StatusBar style="auto" />
     </View>
   );
